@@ -1,8 +1,8 @@
 import { ScullyConfig } from '@scullyio/scully';
+import '@scullyio/scully-plugin-puppeteer';
 export const config: ScullyConfig = {
-  projectRoot: "./src",
-  projectName: "scully-template-project",
+  projectRoot: './src',
+  projectName: 'scully-template-project',
   outDir: './dist/static',
-  routes: {
-  }
+  routes: {},
 };
