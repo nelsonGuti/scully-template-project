@@ -1,2 +1,15 @@
 identifier: kcpbg6e2w364zb6c
 allowErrorCollect: true
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: scully-template-project
+homeFolder: >-
+  /Users/nelsongutierrez/Documents/Personal
+  Projects/netlify-sample-scully/scully-template-project
+distFolder: dist/scully-template-project
+outDir: >-
+  /Users/nelsongutierrez/Documents/Personal
+  Projects/netlify-sample-scully/scully-template-project/dist/static
+handle404: ''
